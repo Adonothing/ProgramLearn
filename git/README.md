@@ -4,11 +4,7 @@
 
 &emsp;&emsp;如何构建仓库？
 
-### gitdesktop
-
-### 网站
-
-&emsp;&emsp;New repository，不要建立README.md文件，会弹出下面的提示。我们是新建一个仓库，所以按照下面的方法进行操作。
+&emsp;&emsp;打开官网，New repository，不要建立README.md文件，会弹出下面的提示。我们是新建一个仓库，所以按照下面的方法进行操作。
 
 ```bash
 echo "# ProgramLearn" >> README.md #创建README.md文件并写入内容。
@@ -20,7 +16,8 @@ git remote add origin https://github.com/Adonothing/ProgramLearn.git
 git push -u origin main
 ```
 
+跑完了一遍以后，出现了一些错误，不用管他，打开桌面版`GitHub DeskTop`，添加本地仓以后，可以从这里push。
 
+## 调用其他仓库
 
-
-### git
+&emsp;&emsp;如何使用其他子仓库呢？
