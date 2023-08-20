@@ -22,7 +22,15 @@ git push -u origin main
 
 &emsp;&emsp;如何使用其他子仓库呢？
 
-&emsp;&emsp;参考[Git submodule添加子项目/库](http://t.csdn.cn/YXPJt)。
+&emsp;&emsp;参考[git 添加子模块(submodule)](http://t.csdn.cn/7xSBA)。
+
 ```bash
-git submodule add -f https://github.com/microsoft/vscode-docs.git
+# step1：添加子仓库。从源到本地路径。
+git submodule add -f https://github.com/microsoft/vscode-docs.git ./docs/vscode-docs
+# step2：推送到父仓库。
+git add .
+git commit -m ‘添加子模块’
+git push
 ```
+
+这样就成功了，在网页上就会找到子仓库的链接，能直接进入子仓库的源地址。如果你更改了子仓库的名称，比如把`vscode-docs`改为`VSCDocs`，你无法直接推送到父仓库，而是把第二步的三个命令再走一遍。
