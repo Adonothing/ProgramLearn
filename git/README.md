@@ -21,3 +21,8 @@ git push -u origin main
 ## 调用其他仓库
 
 &emsp;&emsp;如何使用其他子仓库呢？
+
+&emsp;&emsp;参考[Git submodule添加子项目/库](http://t.csdn.cn/YXPJt)。
+```bash
+git submodule add -f https://github.com/microsoft/vscode-docs.git
+```
