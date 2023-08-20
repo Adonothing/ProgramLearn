@@ -1,0 +1,3 @@
+[submodule "docs/learning-cmake"]
+	path = docs/learning-cmake
+	url = https://github.com/Akagi201/learning-cmake.git
