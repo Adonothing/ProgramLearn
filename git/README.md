@@ -33,4 +33,12 @@ git commit -m ‘添加子模块’
 git push
 ```
 
-这样就成功了，在网页上就会找到子仓库的链接，能直接进入子仓库的源地址。如果你更改了子仓库的名称，比如把`vscode-docs`改为`VSCDocs`，你无法直接推送到父仓库，而是把第二步的三个命令再走一遍。
+这样就成功了，在网页上就会找到子仓库的链接，能直接进入子仓库的源地址。但是有时会产生bug，在第一步子仓库全部克隆下来时，命令端口不会自动退出，不会产生`.gitmodules`文件，这时需要我们手动添加：
+
+```
+[submodule "docs/learning-cmake"]
+	path = docs/learning-cmake
+	url = https://github.com/Akagi201/learning-cmake.git
+```
+
+再继续走第二步就可以了。在.git/modules/路径下会产生同样名称的文件夹，都删除，应该就可以了吧？
