@@ -6,5 +6,5 @@
 
 ## 文件夹
 
-1. [termianl](/example/SingleSrc/termianl/termianl.exe)：编译生成的可执行文件。
+1. [termianl.exe](./termianl.exe)：编译生成的可执行文件。
 

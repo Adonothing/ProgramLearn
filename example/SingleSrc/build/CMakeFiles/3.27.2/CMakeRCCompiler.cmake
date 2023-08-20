@@ -1,6 +1,6 @@
-set(CMAKE_RC_COMPILER "E:/01_Adunas/02_EnglishPath/03_software/07_program/02_C/02_WinGW/02_FilePozition/02_R7000/mingw64/bin/windres.exe")
+set(CMAKE_RC_COMPILER "E:/Windows Kits/10/bin/10.0.22621.0/x86/rc.exe")
 set(CMAKE_RC_COMPILER_ARG1 "")
 set(CMAKE_RC_COMPILER_LOADED 1)
 set(CMAKE_RC_SOURCE_FILE_EXTENSIONS rc;RC)
-set(CMAKE_RC_OUTPUT_EXTENSION .obj)
+set(CMAKE_RC_OUTPUT_EXTENSION .res)
 set(CMAKE_RC_COMPILER_ENV_VAR "RC")
