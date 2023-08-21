@@ -1,3 +1,0 @@
-E:\01_Adunas\02_EnglishPath\03_software\07_program\02_C\03_CMake\02_FilePozition\02_R7000\bin\cmake.exe -E rm -f CMakeFiles\hello-world.dir/objects.a
-E:\01_Adunas\02_EnglishPath\03_software\07_program\02_C\02_WinGW\02_FilePozition\02_R7000\mingw64\bin\ar.exe qc CMakeFiles\hello-world.dir/objects.a @CMakeFiles\hello-world.dir\objects1.rsp
-E:\01_Adunas\02_EnglishPath\03_software\07_program\02_C\02_WinGW\02_FilePozition\02_R7000\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\hello-world.dir/objects.a -Wl,--no-whole-archive -o hello-world.exe -Wl,--out-implib,libhello-world.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hello-world.dir\linkLibs.rsp

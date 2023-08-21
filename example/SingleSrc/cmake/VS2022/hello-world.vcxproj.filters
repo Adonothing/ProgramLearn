@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\01_Adunas\02_EnglishPath\07_program\18_ProgramLearn\ProgramLearn\example\SingleSrc\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\01_Adunas\02_EnglishPath\07_program\18_ProgramLearn\ProgramLearn\example\SingleSrc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{786721C3-8A25-3E67-8DF5-EFA2A283A2AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

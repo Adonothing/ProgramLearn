@@ -11,18 +11,19 @@
 ## 文件夹说明
 
 1. [.git](./.git/)：git管理文件。git项目自动生成。
-2. [.vs].(/.vs/)：VSCode文件。
+2. [.vs](./.vs/)：VSCode文件。
 3. [.vscode](./.vscode/)：vscode编译、运行和调试。
-4. [cmake](./cmake/)：cmake文档。
-5. [docs](./docs/)：放置文档、pdf、图片等资料。
-6. [doxygen](./doxygen/)：注释文档。
-7. [example].(/example/)：代码例子。
-8. [git].(/git/)：git命令和操作。
-9. [include](./include/)：头文件。
-10. [out](./out/)：输出文件。
-11. [src](./src/)：源文件。
-12. [tests](./tests/)：代码测试。
-13. [VSSolution](./VSSolution/)：VS的解决方案。
-14. [.gitmodules](./.gitmodules)：git的依赖库配置。
-15. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
-16. []()：。
+4. [bash](./bash/)：bash命令。
+5. [cmake](./cmake/)：cmake文档。
+6. [docs](./docs/)：放置文档、pdf、图片等资料。
+7. [doxygen](./doxygen/)：注释文档。
+8. [example](./example/)：代码例子。
+9. [git](./git/)：git命令和操作。
+10. [include](./include/)：头文件。
+11. [out](./out/)：输出文件。
+12. [src](./src/)：源文件。
+13. [tests](./tests/)：代码测试。
+14. [VS](./VS/)：Visual Studio相关文件。VS解决方案文件夹。
+15. [.gitmodules](./.gitmodules)：git的依赖库配置。
+16. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
+17. []()：。

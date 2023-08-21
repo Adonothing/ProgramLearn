@@ -1,3 +1,0 @@
-E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/SingleSrc/CMakeFiles/hello-world.dir
-E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/SingleSrc/CMakeFiles/ALL_BUILD.dir
-E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/SingleSrc/CMakeFiles/ZERO_CHECK.dir

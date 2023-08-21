@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\01_Adunas\02_EnglishPath\07_program\18_ProgramLearn\ProgramLearn\example\SingleSrc\cmake\VS2022\CMakeFiles\7ca29569bc7a4f55bc7d99ce3cb6f2cc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F4BD1928-0E80-37C1-A4A6-33C9529ED505}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

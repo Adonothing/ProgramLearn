@@ -1,8 +1,0 @@
-[
-{
-  "directory": "E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/example/SingleSrc/build",
-  "command": "E:\\01_Adunas\\02_EnglishPath\\03_software\\07_program\\02_C\\02_WinGW\\02_FilePozition\\02_R7000\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\hello-world.dir\\main.c.obj -c E:\\01_Adunas\\02_EnglishPath\\07_program\\18_ProgramLearn\\example\\SingleSrc\\main.c",
-  "file": "E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/example/SingleSrc/main.c",
-  "output": "CMakeFiles/hello-world.dir/main.c.obj"
-}
-]
