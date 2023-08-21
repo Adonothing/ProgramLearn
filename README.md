@@ -1,12 +1,14 @@
 # ProgramLearn
 
-&emsp;&emsp;创建这个文件夹是为了对编程语言进行学习。我将用双语完成这个工作。
+&emsp;&emsp;创建这个文件夹是为了对编程语言进行学习。抽空将用双语完善这个工作。
 
-&emsp;&emsp;This document is made for learning Program. I will use English and Chinese to do my work.
+&emsp;&emsp;This document is made for learning Program. I will use English to improve my work in my free time.
 
 &emsp;&emsp;首先我会模仿Azure Kinect SDK对C系列语言发起进攻。我认为这其中应该包含C、C++、Csharp和cmake。我不得不提高cmake的重要地位，cmake将作为编译整个c项目的基础。
 
 &emsp;&emsp;First of all, I will launch an attack to C language by imitating Azure Kinect SDK. I think this project should be obtain C, C++, Csharp and cmake. I have to improve position of cmake. Cmake will be the basis of compling the whole C language project.
+
+&emsp;&emsp;纯c语言是完全不够的，我希望在这里加入实用且丰富的语言，构造我们想要的知识库。
 
 ## 文件夹说明
 
