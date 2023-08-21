@@ -49,7 +49,7 @@
 
 其中`${}`指的是什么路径呢？
 
-可以参考网页[predefined variables](https://code.visualstudio.com/docs/editor/variables-reference#_predefined-variables)或本地[Predefined variables](../../../docs/vscode-docs/docs/editor/variables-reference.md#-predefined-variables)。[显示路径的方法](../../../docs/vscode-docs/docs/editor/variables-reference.md#-How-can-I-know-a-variable's-actual-value?)，选择继续而不扫描任务输出。想要正确输出，需要注意以下几点：
+可以参考网页[predefined variables](https://code.visualstudio.com/docs/editor/variables-reference#_predefined-variables)或本地[Predefined variables](../../../VSC/extern/vscode-docs/docs/editor/variables-reference.md#-predefined-variables)。[显示路径的方法](../../../VSC/extern/vscode-docs/docs/editor/variables-reference.md#-How-can-I-know-a-variable's-actual-value?)，选择继续而不扫描任务输出。想要正确输出，需要注意以下几点：
 
 1. 文件名称必须为`tasks.json`。
 2. 文件路径必须为`.vscode`

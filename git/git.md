@@ -27,6 +27,7 @@ git push -u origin main
 ```bash
 # step1：添加子仓库。从源到本地路径。
 git submodule add https://github.com/Akagi201/learning-cmake.git ./docs/learning-cmake #这时候文件夹下会产生一个文件.gitmodules用于记录子仓库的源地址和本地路径。要不然就认为添加子仓库失败。
+# git submodule add https://github.com/microsoft/vscode-docs.git ./VSC/extern/vscode-docs #添加VSCode官方文档
 # step2：推送到父仓库。
 git add . #添加修改的内容
 git commit -m ‘添加子模块’ #对修改的内容备注
