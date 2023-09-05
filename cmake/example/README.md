@@ -1,6 +1,6 @@
 # example
 
-&emsp;&emsp;cmake代码。学习和测试。
+&emsp;&emsp;cmake语法相关内容。学习和测试。
 
 ## 文件夹说明
 

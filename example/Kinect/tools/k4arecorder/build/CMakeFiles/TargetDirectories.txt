@@ -1,0 +1,4 @@
+E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/Kinect/tools/k4arecorder/build/CMakeFiles/k4arecorder.dir
+E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/Kinect/tools/k4arecorder/build/CMakeFiles/INSTALL.dir
+E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/Kinect/tools/k4arecorder/build/CMakeFiles/ALL_BUILD.dir
+E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/ProgramLearn/example/Kinect/tools/k4arecorder/build/CMakeFiles/ZERO_CHECK.dir

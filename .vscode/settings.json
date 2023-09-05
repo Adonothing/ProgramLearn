@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "malloc.h": "c",
+        "k4a.h": "c",
+        "k4aversion.h": "c"
     }
 }
