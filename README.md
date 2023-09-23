@@ -13,11 +13,7 @@
 ## 文件夹说明
 
 1. [.git](./.git/)：git管理文件。git项目自动生成。
-<<<<<<< HEAD
 2. [.vs](./.vs/)：VS文件。VS自动生成。
-=======
-2. [.vs](./.vs/)：VSCode文件。
->>>>>>> bed6894db33c684d434de7720c19797359cd77d1
 3. [.vscode](./.vscode/)：vscode编译、运行和调试。
 4. [bash](./bash/)：bash命令。
 5. [C](./C/)：C语言语法。
@@ -26,7 +22,6 @@
 8. [doxygen](./doxygen/)：注释文档。
 9. [example](./example/)：代码例子。
 10. [git](./git/)：git命令和操作。
-<<<<<<< HEAD
 11. [LaTex](./LaTex/)：LaTex语法。
 12. [linux](./linux/)：linux系统相关命令和设置。
 13. [md](./md/)：markdown标记语言。
@@ -41,13 +36,3 @@
 22. [.gitmodules](./.gitmodules)：git的依赖库配置。
 23. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
 24. []()：。
-=======
-11. [include](./include/)：头文件。
-12. [out](./out/)：输出文件。
-13. [src](./src/)：源文件。
-14. [tests](./tests/)：代码测试。
-15. [VS](./VS/)：Visual Studio相关文件。VS解决方案文件夹。
-16. [.gitmodules](./.gitmodules)：git的依赖库配置。
-17. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
-18. []()：。
->>>>>>> bed6894db33c684d434de7720c19797359cd77d1
