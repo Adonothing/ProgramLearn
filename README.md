@@ -1,8 +1,8 @@
 # ProgramLearn
 
-&emsp;&emsp;创建这个文件夹是为了对编程语言进行学习。抽空将用双语完善这个工作。
+&emsp;&emsp;创建这个文件夹是为了对编程语言进行学习。同时增加不同操作系统的软件配置方法。我希望用双语来完善这个工作，但是目前手写英语还是有不少困难。
 
-&emsp;&emsp;This document is made for learning Program. I will use English to improve my work in my free time.
+&emsp;&emsp;This document is made for learning Program. In the same time, adding setting ways of different software. I hope to use English to improve my work，but there are not a little hard.
 
 &emsp;&emsp;首先我会模仿Azure Kinect SDK对C系列语言发起进攻。我认为这其中应该包含C、C++、Csharp和cmake。我不得不提高cmake的重要地位，cmake将作为编译整个c项目的基础。
 
