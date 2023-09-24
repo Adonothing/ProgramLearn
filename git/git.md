@@ -96,6 +96,76 @@ git rm --cached projectfolder
 
 好了，现在可以重新添加子模块了。
 
+## 分支
+
+&emsp;&emsp;上面讲的都是主分支。现在我有需求，电脑上和手机上都会对代码进行修改，我希望创建两个分支，一个分支名字叫R7000，一个名字叫iPhone。然后在GitHub仓库中合并提交。这要怎么做呢？
+
+基本命令：
+
+```bash
+# 查看本地仓库对应的远程仓库
+git remote -v
+# 结果显示如下，远程仓库名和地址
+origin  https://github.com/Adonothing/ProgramLearn.git (fetch)
+origin  https://github.com/Adonothing/ProgramLearn.git (push)
+
+# 列出本地分支
+git branch
+# 结果显示如下:
+* main
+
+# 列出所有分支
+git branch -a
+# 结果显示如下:
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+# 如果在网页端更改了分支，需要拉取到本地，才能正确显示：
+git pull
+
+# 创建分支
+git branch R7000
+# 查看分支结果显示如下:
+R7000
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+# 将本地分支推送到远端仓库
+# 推送所有分支
+git push origin --all
+# 结果如下：
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Adonothing/ProgramLearn.git
+ * [new branch]      R7000 -> R7000
+
+# 推送单个分支
+git branch iPhone
+git push origin iPhone
+
+# 删除分支
+# 删除远端分支
+git push origin -d R7000
+# 删除本地分支
+git branch -d R7000
+```
+
+### 网页端修改
+
+&emsp;&emsp;网页端修改后都需要同步至本地才能生效。
+
+#### 修改默认分支
+
+&emsp;&emsp;进入网页端，settings-Branches里修改默认分支。
+
+#### 删除分支
+
+&emsp;&emsp;网页操作略。同步至本地：
+
+```bash
+git remote prune origin
+```
+
 ## 图片
 
 &emsp;&emsp;一般的克隆是不会下载图片的。需要递归克隆：
