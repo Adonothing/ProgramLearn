@@ -166,6 +166,10 @@ git branch -d R7000
 git remote prune origin
 ```
 
+#### 合并分支
+
+&emsp;&emsp;
+
 ## 图片
 
 &emsp;&emsp;一般的克隆是不会下载图片的。需要递归克隆：
