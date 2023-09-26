@@ -154,6 +154,31 @@ git push origin iPhone
 git push origin -d R7000
 # 删除本地分支
 git branch -d R7000
+
+# 切换分支
+git checkout 分支名
+# 或者
+git switch 分支名
+
+# 创建+切换分支
+git checkout -b 分支名
+# 或者
+git switch -c 分支名
+
+# 下载远程分支到本地
+# 本地分支名xxx相同与远程分支名xxx
+git checkout -b 本地分支名xxx origin/远程分支名xxx
+# 第二个方法
+# 先跟踪远程分支到本地
+git fetch origin 远程分支名xxx:本地分支名xxx
+# 再切换分支，同上
+git checkout 分支名
+
+# 当第一下载仓库时，可以选择对应的分支名称
+git clone -b 分支名 仓库地址
+
+# 合并分支到当前分支
+git merge 分支名
 ```
 
 ### 网页端修改
