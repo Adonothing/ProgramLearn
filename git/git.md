@@ -47,11 +47,17 @@ git pull
 
 ```bash
 git add . #添加修改的内容
+git status #查看git状态
 git commit -m ‘添加子模块’ #对修改的内容备注
 git push #提交修改的内容
 ```
 
-注意这里不能省略commit，提交后应该在网页上看看提交结果。
+注意这里不能省略commit，提交后应该在网页上看看提交结果。git commit不能省略 -m 。
+随时查看git状态：
+
+```bash
+git status #添加修改的内容
+```
 
 ## 添加子仓库
 
