@@ -1,7 +1,4 @@
 ﻿  main.c
-E:\01_Adunas\02_EnglishPath\07_program\ProgramLearn\example\SingleSrc\main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  正在生成代码
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  SingleSrc.vcxproj -> E:\01_Adunas\02_EnglishPath\07_program\ProgramLearn\VS\Solution\VS2022\x64\Release\SingleSrc.exe
+E:\01_Adunas\25_VSCode集中文件夹\ProgramLearn\example\SingleSrc\main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  E:\01_Adunas\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals_core.h(28): STL1003: Unexpected compiler, expected C++ compiler.
+E:\01_Adunas\Microsoft\VisualStudio\2022\Community\VC\Tools\MSVC\14.37.32822\include\yvals_core.h(29,1): fatal  error C1189: #error:  Error in C++ Standard Library usage
