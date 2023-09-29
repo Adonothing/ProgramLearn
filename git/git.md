@@ -1,5 +1,7 @@
 # git
 
+&emsp;&emsp;每个设备都应该建立独立的分支，每天修改后，都应该上传到远端仓库。然后在网页端仓库进行合并，检查哪些修改是合适的。
+
 ## 构建仓库
 
 &emsp;&emsp;如何构建仓库？
@@ -205,7 +207,13 @@ git remote prune origin
 
 #### 合并分支
 
-&emsp;&emsp;
+&emsp;&emsp;当两个分支不一样时，会出现下面的标志（前提是设定了分支保护），点击`Compare&pull request`。
+
+选择双方分支，点击`Create pull request`。
+
+处理请求，点击`Merge pull request`。
+
+确认请求，点击`Confirm request`。
 
 ## 图片
 
