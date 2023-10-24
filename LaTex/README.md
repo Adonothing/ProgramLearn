@@ -5,9 +5,11 @@
 ## 文件夹说明
 
 1. 
-2.  []()：。
+2. []()：。
 
-## 希腊字母
+## 语法
+
+### 希腊字母
 
 $$
 αA \alpha A \\
@@ -36,22 +38,33 @@ $$
 ω Ω \omega \Omega \\
 $$
 
-## 矢量
+### 点乘
 
-&emsp;&emsp;
+$$
+\cdot
+$$
+
+### 矢量
+
+&emsp;&emsp;向右箭头，这个不标准。
 
 $$
 \overrightarrow{a}
 $$
 
+矢量，正确的表达：
 
-## 对齐
+$$
+\vec{a}
+$$
+
+### 对齐
 
 1. 左对齐
 2. 右对齐
 3. 等号处对齐align，在&处对齐
 
-### 无
+#### 无
 
 $$
 d\overrightarrow{a} 
@@ -76,7 +89,7 @@ d\overrightarrow{a}
     = \overrightarrow{e} \cdot da
 $$
 
-### equation
+#### equation
 
 $$
 \begin{equation}
@@ -103,7 +116,7 @@ $$
 \end{equation}
 $$
 
-### align
+#### align
 
 $$
 \begin{align}
@@ -130,7 +143,7 @@ $$
 \end{align}
 $$
 
-### align*
+#### align*
 
 $$
 \begin{align*}
@@ -157,7 +170,7 @@ $$
 \end{align*}
 $$
 
-### aligned
+#### aligned
 
 $$
 \begin{aligned}
@@ -184,7 +197,7 @@ $$
 \end{aligned}
 $$
 
-### equation和aligned
+#### equation和aligned
 
 $$
 \begin{equation}
@@ -213,7 +226,7 @@ $$
 \end{equation}
 $$
 
-### arry
+#### arry
 
 $$
 \begin{array}{r}
