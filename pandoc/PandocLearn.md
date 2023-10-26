@@ -290,8 +290,12 @@ pandoc -F pandoc-crossref -MlinkReferences --lua-filter=fix-image-links.lua -M c
 #生成目录
 pandoc --toc --reference-doc custom-reference.docx -s MdLearn.md -o MdLearn.docx
 
+# 例子，没参考文献的版本
+
 pandoc -F pandoc-crossref -MlinkReferences --lua-filter=fix-image-links.lua --toc --reference-doc custom-reference.docx -s MdLearn.md -o MdLearn.docx
 
+
+pandoc -F pandoc-crossref -MlinkReferences --lua-filter=fix-image-links.lua --toc --reference-doc custom-reference.docx -s README.md -o README.docx
 ```
 
 发现目录标题和标题一样会编号，原来目录标题以标题一为基础样式了，所以也会带有章编号，只要改基础样式就行了。
