@@ -50,6 +50,15 @@ $$
 \mathbf{dT(P)}
 $$
 
+### 单括号
+
+$$
+\left\{
+\right.
+$$
+
+一般情况下，括号是成对使用的，用一半的话需要手动取消。其中`\right.`就是手动取消的表达式。
+
 ### 矢量
 
 &emsp;&emsp;向右箭头，这个不标准。
@@ -69,6 +78,30 @@ $$
 1. 左对齐
 2. 右对齐
 3. 等号处对齐align，在&处对齐
+
+### 上下标
+
+$$
+\mathop{\sum}_{a=\frac{1}{2} \times 10}^{b=\frac{4}{5}}c \cdot d
+$$
+
+$$
+\mathop{\sum}\limits_{a=\frac{1}{2} \times 10}^{b=\frac{4}{5}}c \cdot d
+$$
+
+### 省略号
+
+$$
+Y=\{y_1, y_2, \ldots, y_n\},
+\begin{bmatrix}
+    x_{11} & x_{12}  & \cdots   & x_{1m}   \\
+    x_{21} & x_{22}  & \cdots   & x_{2m}  \\
+    \vdots & \vdots  & \ddots   & \vdots  \\
+    x_{n1} & x_{n2}  & \cdots\  & x_{nm}  \\
+\end{bmatrix}
+$$
+
+### 公式编号
 
 #### 无
 

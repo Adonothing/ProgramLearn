@@ -18,20 +18,22 @@
 4. [bash](./bash/)：bash命令。
 5. [C](./C/)：C语言语法。
 6. [cmake](./cmake/)：cmake文档。
-7. [docs](./docs/)：放置文档、pdf、图片等资料。
-8. [doxygen](./doxygen/)：注释文档。
-9. [example](./example/)：代码例子。
-10. [git](./git/)：git命令和操作。
-11. [LaTex](./LaTex/)：LaTex语法。
-12. [MATLAB](./MATLAB/)：MATLAB语法。
-13. [md](./md/)：markdown标记语言。
-14. [pandoc](./pandoc/)：pandoc，markdown文档转化工具。
-15. [include](./include/)：头文件。
-16. [shell](./shell/)：shell脚本语法。
-17. [src](./src/)：源文件。
-18. [tests](./tests/)：代码测试。
-19. [VS](./VS/)：Visual Studio相关文件。VS解决方案文件夹。
-20. [VSC](./VSC/)：Visual Studio Code相关文件。VSC相关文件夹。
-21. [.gitmodules](./.gitmodules)：git的依赖库配置。
-22. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
-23. []()：。
+7. [DataStructure](./DataStructure/)：数据结构，算法的时间复杂度等。
+8. [docs](./docs/)：放置文档、pdf、图片等资料。
+9. [doxygen](./doxygen/)：注释文档。
+10. [EquationAlgorithm](./EquationAlgorithm/)：方程和算法相互转化。
+11. [example](./example/)：代码例子。
+12. [git](./git/)：git命令和操作。
+13. [LaTex](./LaTex/)：LaTex语法。
+14. [MATLAB](./MATLAB/)：MATLAB语法。
+15. [md](./md/)：markdown标记语言。
+16. [pandoc](./pandoc/)：pandoc，markdown文档转化工具。
+17. [include](./include/)：头文件。
+18. [shell](./shell/)：shell脚本语法。
+19. [src](./src/)：源文件。
+20. [tests](./tests/)：代码测试。
+21. [VS](./VS/)：Visual Studio相关文件。VS解决方案文件夹。
+22. [VSC](./VSC/)：Visual Studio Code相关文件。VSC相关文件夹。
+23. [.gitmodules](./.gitmodules)：git的依赖库配置。
+24. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
+25. []()：。

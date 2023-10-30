@@ -61,8 +61,6 @@ reference-section-title: "参考文献"
 
 &emsp;&emsp;一个大创项目，做了一个`VSC`的插件，直接把markdown转化成网页博客发布。网址：[$limf(x)$](https://www.limfx.pro/)。
 
-
-
 ## 文本
 
 &emsp;&emsp;Ctrl+Shift切换输入工具，
