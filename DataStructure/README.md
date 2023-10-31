@@ -8,6 +8,7 @@
 2. [【如何理解时间复杂度？（简单易懂）】](https://www.bilibili.com/video/BV1Zw411w7u1/?share_source=copy_web&vd_source=6b55cb6788b1952e04c06b095d772810)：视频。确实把时间复杂度的意义讲清楚了。
 3. [【数据结构——时间复杂度计算】](https://www.bilibili.com/video/BV13d4y1K74p/?share_source=copy_web&vd_source=6b55cb6788b1952e04c06b095d772810)：视频。手把手教时间复杂度计算。
 4. [时间复杂度和空间复杂度（详解版）](https://c.biancheng.net/view/8081.html)：概念的含义。
+5. [【考研数据结构之时间复杂度（含递归）】](https://www.bilibili.com/video/BV1Jh4y1k7Bh/?share_source=copy_web&vd_source=6b55cb6788b1952e04c06b095d772810)：包含递归的时间复杂度的计算方法。
 
 ## 时间复杂度
 
