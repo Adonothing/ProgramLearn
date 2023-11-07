@@ -1,2 +1,0 @@
-E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-E:/01_Adunas/02_EnglishPath/07_program/18_ProgramLearn/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
