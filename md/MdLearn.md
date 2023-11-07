@@ -61,8 +61,6 @@ reference-section-title: "参考文献"
 
 &emsp;&emsp;一个大创项目，做了一个`VSC`的插件，直接把markdown转化成网页博客发布。网址：[$limf(x)$](https://www.limfx.pro/)。
 
-
-
 ## 文本
 
 &emsp;&emsp;Ctrl+Shift切换输入工具，
@@ -194,7 +192,7 @@ f(x)=a x+b
 $$ {#eq:1}
 :::
 
-和文字一起的内嵌公式 $f(x)=a\cdot x+b$这样就可以了。
+和文字一起的内嵌公式 $f(x)=a\cdot x+b$这样就可以了。之所以要加域`::: {custom-style="Figure"}`是因为pandoc的公式转word时候，样式为正文，正文设置固定行距时，公式会显示不全，公式的行距要求为单倍行距，所以单独设置样式。
 
 ## 表格
 
@@ -244,6 +242,8 @@ $$ {#eq:1}
 
 > [文本外跳转（同目录下）](/xx.md#标题)
 > [文本外跳转（从根目录开始）](./doc/xx.md#标题)
+
+在VSC中，输入./后会自动联想文件，但是中文会变成乱码，如何解决？
 
 指定文件夹[下载](file:\\C:/Users/23130/Desktop)
 
