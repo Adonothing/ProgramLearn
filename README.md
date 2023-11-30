@@ -40,4 +40,4 @@
 26. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
 27. []()：。
 
-git add.; git commit -m "标题编号"; git push origin 12600K
+git add .; git commit -m "标题编号"; git push origin 12600K
