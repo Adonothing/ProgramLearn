@@ -16,28 +16,27 @@
 2. [.vs](./.vs/)：VS文件。VS自动生成。
 3. [.vscode](./.vscode/)：vscode编译、运行和调试。
 4. [bash](./bash/)：bash命令。
-5. [C](./C/)：C语言语法。
-6. [cmake](./cmake/)：cmake文档。
-7. [DataStructure](./DataStructure/)：数据结构，算法的时间复杂度等。
-8. [docs](./docs/)：放置文档、pdf、图片等资料。
-9. [doxygen](./doxygen/)：注释文档。
-10. [EquationAlgorithm](./EquationAlgorithm/)：方程和算法相互转化。
-11. [example](./example/)：代码例子。
-12. [git](./git/)：git命令和操作。
-13. [Html](./Html/)：网页制作。
-14. [LaTex](./LaTex/)：LaTex语法。
-15. [MATLAB](./MATLAB/)：MATLAB语法。
-16. [md](./md/)：markdown标记语言。
-17. [pandoc](./pandoc/)：pandoc，markdown文档转化工具。
-18. [Python](./Python/)。
-19. [include](./include/)：头文件。
-20. [shell](./shell/)：shell脚本语法。
-21. [src](./src/)：源文件。
-22. [tests](./tests/)：代码测试。
-23. [VS](./VS/)：Visual Studio相关文件。VS解决方案文件夹。
-24. [VSC](./VSC/)：Visual Studio Code相关文件。VSC相关文件夹。
-25. [.gitmodules](./.gitmodules)：git的依赖库配置。
-26. [Cmakelists.txt](./Cmakelists.txt)：cmkae文件。
-27. []()：。
-
-git add.; git commit -m "标题编号"; git push origin 12600K
+5. [BlendLearn](./BlendLearn/)：混合学习。
+6. [C](./C/)：C语言语法。
+7. [cmake](./cmake/)：cmake文档。
+8. [DataStructure](./DataStructure/)：数据结构，算法的时间复杂度等。
+9. [docs](./docs/)：放置文档、pdf、图片等资料。
+10. [doxygen](./doxygen/)：注释文档。
+11. [EquationAlgorithm](./EquationAlgorithm/)：方程和算法相互转化。
+12. [example](./example/)：代码例子。
+13. [git](./git/)：git命令和操作。
+14. [Html](./Html/)：网页制作。
+15. [LaTex](./LaTex/)：LaTex语法。
+16. [MATLAB](./MATLAB/)：MATLAB语法。
+17. [md](./md/)：markdown标记语言。
+18. [pandoc](./pandoc/)：pandoc，markdown文档转化工具。
+19. [Python](./Python/)。
+20. [include](./include/)：头文件。
+21. [shell](./shell/)：shell脚本语法。
+22. [src](./src/)：源文件。
+23. [tests](./tests/)：代码测试。
+24. [VS](./VS/)：Visual Studio相关文件。VS解决方案文件夹。
+25. [VSC](./VSC/)：Visual Studio Code相关文件。VSC相关文件夹。
+26. [.gitmodules](./.gitmodules)：git的依赖库配置。
+27. [Cmakelists.txt](./Cmakelists.txt)：cmake文件。
+28. []()：。
