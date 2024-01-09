@@ -245,7 +245,7 @@ $$ {#eq:1}
 
 在VSC中，输入./后会自动联想文件，但是中文会变成乱码，如何解决？
 
-指定文件夹[下载](file:\\C:/Users/23130/Desktop)
+指定文件夹[下载](file:\\C:/Users/Adunas/Desktop/)
 
 网址跳转这个是[百度链接](https://www.baidu.com/)
 

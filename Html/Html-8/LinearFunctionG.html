@@ -1,0 +1,37 @@
+<head>
+    <script src="https://cdn.plot.ly/plotly-2.27.1.min.js" charset="utf-8"></script>
+</head>
+<body>
+    <style>  
+        .container1 {  
+            width: 100%; /* 设置容器的宽度为90% */  
+            margin: 0 auto; /* 水平居中容器 */  
+            position: relative; /* 设置容器的定位方式为相对定位 */  
+            padding-top: 68%; /* 原始大小600:400，高宽比为：0.6778 */
+            height: 0; /* 设置容器的高度为0，使其自适应内容的高度 */  
+        }  
+          
+        .container-iframe {  
+            position: absolute; /* 设置iframe的定位方式为绝对定位 */  
+            top: 0; /* 将iframe定位到容器的顶部 */  
+            left: 0; /* 将iframe定位到容器的左侧 */  
+            width: 100%; /* 设置iframe的宽度为100% */  
+            height: 100%; /* 设置iframe的高度为100% */  
+            border: none; /* 可选：移除iframe的边框 */  
+        }
+    </style>
+
+    <div class="container1">  
+        <div class="container-iframe" id="gd"></div>
+    </div>    
+
+    <script>
+        
+          // 监听窗口尺寸变化事件，以便动态调整iframe的src属性  
+    window.addEventListener('resize', function() {   
+        Plotly.newPlot("gd", /* JSON object */ {
+            "data": [{ "y": [1, 2, 3] }]
+        }) 
+    }) 
+    </script>
+</body
